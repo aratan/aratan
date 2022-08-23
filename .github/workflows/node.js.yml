@@ -15,12 +15,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
     - name: Use Node.js 
       uses: actions/setup-node@v3
       with:
-        node-version: 14.x
+        node-version: 16.x
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
     
+    - uses: actions/checkout@v3
+    - run: |
+          date > generated.txt
+          git config user.name aratan
+          git config user.email victor.arbiol@gmail.com
+          git add README.md
+          git commit -m "[bot]-> Update README with latest info YT Channel"
+          git push
+
+    
+
+
+
+
+
