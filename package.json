@@ -1,0 +1,24 @@
+{
+  "name": "aratan",
+  "version": "1.0.0",
+  "description": "readme github profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aratan/aratan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aratan/aratan/issues"
+  },
+  "homepage": "https://github.com/aratan/aratan#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
