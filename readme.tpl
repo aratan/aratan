@@ -42,6 +42,6 @@ const victor = {
 ---
 [![Aratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratan)](https://github.com/aratan/github-readme-stats)
 
-⭐️ From [@aratan](https://github.com/aratan)
+⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
 - latest article: %{{latest_article}}%
