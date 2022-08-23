@@ -11,7 +11,7 @@
 [![GitHub Víctor Arbiol](https://img.shields.io/github/followers/aratan?label=follow&style=social)](https://github.com/aratan)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
