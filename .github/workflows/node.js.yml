@@ -6,9 +6,8 @@ name: Node.js CI
 #name: Do things every 5 minutes
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "* * * * *"
   
-
 jobs:
   build:
 
@@ -18,7 +17,7 @@ jobs:
     - name: Use Node.js 
       uses: actions/setup-node@v3
       with:
-        node-version: 16.x
+        node-version: '16'
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
@@ -30,7 +29,7 @@ jobs:
           git config user.email victor.arbiol@gmail.com
           git add README.md
           git commit -m "[bot]-> Update README with latest info YT Channel"
-          git push
+          git push origin main
 
     
 
