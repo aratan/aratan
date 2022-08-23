@@ -32,5 +32,6 @@ const victor = {
 <b>I love programming</b> I am always looking for interesting projects! :)</b> :)</em>
 
 ---
+[![Aratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratan)](https://github.com/aratan/github-readme-stats)
 
 ⭐️ From [@aratan](https://github.com/aratan)
