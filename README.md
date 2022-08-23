@@ -14,11 +14,11 @@
 ### <img src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const victor = {
+  pronouns: "her",
   code: [Javascript, Typescript, HTML, CSS, Go, Python, Php],
   tools: [Angular, Node, Docker, Jupyter-Lab, MariaDB, Streamlit, Numpy, Pandas, Matplotlib, Scikit-learn, Web3],
-  architecture: ["microservices", "event-driven", "design system pattern", "Blockchain"],
+  architecture: ["microservices", "event-driven", "design system pattern", "blockchain"],
   techCommunities: {
                         Menber: "Factoria-F5-AI-Bootcamp-1-Edicion",
                         speaker: "...",
