@@ -20,7 +20,6 @@ jobs:
     - run: npm install
     - run: npm run update-readme
     - run: |
-          date > generated.txt
           git config user.name aratan
           git config user.email victor.arbiol@gmail.com
           git add README.md
