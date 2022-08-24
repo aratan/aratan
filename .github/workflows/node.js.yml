@@ -3,10 +3,10 @@
 
 name: Node.js CI
 
-#name: Do things every 5 minutes
+#name: Do things every 30 minutes
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/30 * * * *"
   
 jobs:
   build:
