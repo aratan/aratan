@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [Nuevo Video:](https://www.youtube.com/watch?v=rIlBmz6echE)
+- latest article: [Como hacer slide con figma 2022](https://www.youtube.com/watch?v=0YW1FzmUrMk)
