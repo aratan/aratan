@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [Nuevo Video](https://www.youtube.com/watch?v=Nvwl_HoZlXc)
+- latest article: [Rabitman presenta AI-900,](https://www.youtube.com/watch?v=EnfEJgOt-2w)
