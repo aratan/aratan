@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [Automatización de YouTube](https://www.youtube.com/watch?v=6-jL2agDUIs)
+- latest article: [Stable Difussion video tardo 12 minutos para 8 segundos.](https://www.youtube.com/watch?v=S0CWBOvRzP4)
