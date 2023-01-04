@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [Vídeo musical en timelapse](https://www.youtube.com/watch?v=HMxcXeWvQdE)
+- latest article: [Vídeo sin título](https://www.youtube.com/watch?v=l5hKgD5UCoo)
