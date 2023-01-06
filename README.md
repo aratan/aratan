@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [Vídeo sin título](https://www.youtube.com/watch?v=l5hKgD5UCoo)
+- latest article: [La ciudad que no duerme](https://www.youtube.com/watch?v=HG2-pdUKR1U)
