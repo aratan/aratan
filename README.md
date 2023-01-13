@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [La ciudad que no duerme](https://www.youtube.com/watch?v=HG2-pdUKR1U)
+- latest article: [Aratan Coders es una Comunidad Hacker](https://www.youtube.com/watch?v=Xjenv7unOYk)
