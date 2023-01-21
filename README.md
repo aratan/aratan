@@ -17,7 +17,6 @@ Software Enginner A.I. Junior and Developer Consultant at
 [![Twitter: Víctor Arbiol](https://img.shields.io/twitter/follow/systemdevelope5?style=social)](https://twitter.com/systemdevelope5)
 [![Linkedin: Víctor Arbiol](https://img.shields.io/badge/victorarbiol?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorarbiol/)](https://www.linkedin.com/in/victorarbiol/)
 [![GitHub Víctor Arbiol](https://img.shields.io/github/followers/aratan?label=follow&style=social)](https://github.com/aratan)
-[![kaggle Víctor Arbiol](https://www.kaggle.com/monkyxl)
 
 
 ### <img src="https://cdn.dribbble.com/users/510430/screenshots/6749707/programar.gif" width="48"> A little more about me...  
