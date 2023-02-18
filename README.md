@@ -1,5 +1,5 @@
-<h2> Hi, I'm Víctor Arbiol! 
-    <img src="https://avatars.githubusercontent.com/u/110029154?s=200&v=4" width="48">
+<h2> Hi, I'm Víctor 
+<a href="https://www.safecreative.org/user/1712102612331" ><img src="https://resources.safecreative.org/user/1712102612331/label/standard-male-150" style="border:0;" alt="Safe Creative #1712102612331"/></a>
 </h2>
 
 <img align='right' src="https://media-exp1.licdn.com/dms/image/C4D03AQEuiPSnznhDqQ/profile-displayphoto-shrink_200_200/0/1622654662598?e=1666828800&v=beta&t=cMlAfrrVOLmBHbHFMn-V-Zub-FiJ8cslOzRauJr54Xk" width="230">
