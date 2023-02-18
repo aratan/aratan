@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/110029154?s=200&v=4" width="48">
 </h2>
 
-<a href="https://www.safecreative.org/user/1712102612331" ><img src="https://resources.safecreative.org/user/1712102612331/label/standard-male-150" style="border:0;" alt="Safe Creative #1712102612331"/></a>
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C4D03AQEuiPSnznhDqQ/profile-displayphoto-shrink_200_200/0/1622654662598?e=1666828800&v=beta&t=cMlAfrrVOLmBHbHFMn-V-Zub-FiJ8cslOzRauJr54Xk" width="230">
 <p>
     <em>Psychology at 
         <a href="http://www.uned.es">University of Uned</a>
@@ -10,7 +10,7 @@
 </br>
 Software Enginner A.I. Junior and Developer Consultant at 
     <a href="https://aratancoders.blockchain">Freelance </a>
-        <a href="https://www.safecreative.org/user/1712102612331" ><img src="https://resources.safecreative.org/user/1712102612331/label/qrcode2-150" style="border:0;" alt="Safe Creative #1712102612331"/></a> 
+        <img src="https://media-exp1.licdn.com/dms/image/C560BAQGP3nwW3WTiIA/company-logo_200_200/0/1645055750439?e=1669248000&v=beta&t=lG90jOLnLE3egZxv9yx1vlDgSTH3mPfxlw59Rd2UsnA" width="48"> 
     </em>
 </p>
 
