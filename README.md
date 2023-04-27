@@ -44,4 +44,4 @@ const victor = {
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
 
-- latest article: [CapGemini](https://www.youtube.com/watch?v=2VY6n8l1oxM)
+- latest article: [Azure Form Recognizer (webinar)  | en Español](https://www.youtube.com/watch?v=EMTvnpMgsk8)
