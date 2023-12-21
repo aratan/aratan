@@ -28,11 +28,12 @@ const victor = {
   tools: [Angular, Node, Docker, Jupyter-Lab, MariaDB, Streamlit, Numpy, Pandas, Matplotlib, Scikit-learn, Web3],
   architecture: ["microservices", "event-driven", "design system pattern", "blockchain"],
   techCommunities: {
-                        Menber: "Factoria-F5-AI-Bootcamp-1-Edicion",
-                        speaker: "...",
-                        mentor: "..."
+                        Menber: "Freelancer","Arquitectode datos", "Machine Learning", "SmartContract"
+                        speaker: "",
+                        mentor: "...",
+                        develop: "AratanCodersToken", "AratanCodersNFT","ML-deterctorIctus","ID-face"
                       },
- challenge: "Factoria-F5-AI-Bootcamp-1-Edicion"
+ challenge: "Factoria-F5-AI-Bootcamp-1-Edicion", "Autodidacta"
 }
 ```
 
