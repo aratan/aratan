@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/110029154?s=200&v=4" width="48">
 </h2>
 
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C4D03AQEuiPSnznhDqQ/profile-displayphoto-shrink_200_200/0/1622654662598?e=1666828800&v=beta&t=cMlAfrrVOLmBHbHFMn-V-Zub-FiJ8cslOzRauJr54Xk" width="230">
+
 <p>
     <em>Psychology at 
         <a href="http://www.uned.es">University of Uned</a>
@@ -37,7 +37,7 @@ const victor = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"> <em>
+<img src="https://github.com/aratan/CallSmartContract/blob/main/_524d9908-b41b-4397-b101-2f1897261d36.jpg?raw=true" width="200"> <em>
 <b>I love programming</b> I am always looking for interesting projects! :)</b> :)</em>
 
 ---
