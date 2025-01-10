@@ -33,8 +33,8 @@ const victor = {
                         Mentor: "AratanCoders.blockchain",
                         Develop: "AratanCodersToken", "AratanCodersNFT","ML-deterctorIctus","ID-face", "LLM agent"
                       },
- challenge: "Factoria-F5-AI-Bootcamp-1-Edicion", "Bootcamp: Saturday.ai","Autodidacta","DataBootcamp", "Ingenieria LLM: Frogames", "Bootcamp: Aceleradora AI
-"
+ challenge: "Factoria-F5-AI-Bootcamp-1-Edicion", "Bootcamp: Saturday.ai","Autodidacta",
+            "DataBootcamp", "Ingenieria LLM: Frogames", "Bootcamp: Aceleradora AI"
 }
 ```
 
