@@ -58,7 +58,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - Deploy de aplicaciones Java  
 - Gestión de backups, monitorización y configuración de DA y Exchange
 
-### 📡 Analista / Monitorizacion de reedes.
+### 📡 Analista / Monitorizacion de redes.
 - Analista de red, configuración de redes celulares.
 - Monitorización de red, servidores, balanceadores y automatización de respuestas
 - Muchos más sitios...
