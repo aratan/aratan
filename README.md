@@ -41,10 +41,32 @@ const victor = {
 
 <img src="https://github.com/aratan/CallSmartContract/blob/main/_524d9908-b41b-4397-b101-2f1897261d36.jpg?raw=true" width="200"> <em>
 <b>I love programming</b> I am always looking for interesting projects! :)</b> :)</em>
+## 🎓 Certificaciones
 
+- **eJPT – Junior Penetration Tester**  
+  Emitido por INE el 4 de noviembre de 2025  
+  [Ver certificado](https://certs.ine.com/e539ef93-a164-488e-9a25-e9532a7e5f82#acc.jJRzhV71)
+
+[![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-blue)](https://certs.ine.com/e539ef93-a164-488e-9a25-e9532a7e5f82#acc.jJRzhV71)
+
+![Azure AI Certified](https://img.shields.io/badge/Azure_AI-Fundamentals-blueviolet)
+
+**Título:** Microsoft Certified: Aspectos básicos de Azure AI  
+**Número de certificación:** `4036B6-F4F464`  
+**Fecha de obtención:** 14 feb 2023  
+**Expira:** No aplica (N/D)
+
+### 📋 Examen aprobado
+
+- **AI-900 – Microsoft Azure AI Fundamentals**  
+  Fecha de aprobación: 14 feb 2023
+
+🔗 [Ver expediente oficial](https://learn.microsoft.com/es-es/users/victorarbiolmartinez/transcript/dg8okh959eqqw4q)
 ---
 [![Aratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratan)](https://github.com/aratan/github-readme-stats)
 
 ⭐️ From [@aratan](https://github.com/aratan) [![Node.js CI](https://github.com/aratan/aratan/actions/workflows/node.js.yml/badge.svg)](https://github.com/aratan/aratan/actions/workflows/node.js.yml)
+
+
 
 - latest article: [Aratan Coders es una Comunidad Hacker](https://www.youtube.com/watch?v=ZkxvYbgqXGs)
