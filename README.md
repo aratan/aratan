@@ -34,7 +34,8 @@ const victor = {
                         Develop: "AratanCodersToken", "AratanCodersNFT","ML-deterctorIctus","ID-face", "LLM agent"
                       },
  challenge: "Factoria-F5-AI-Bootcamp-1-Edicion", "Bootcamp: Saturday.ai","Autodidacta",
-            "DataBootcamp", "Ingenieria LLM: Frogames", "Bootcamp: Aceleradora AI"
+            "DataBootcamp", "Ingenieria LLM: Frogames", "Bootcamp: Aceleradora AI",
+ cybersecurity: "eJPTv2 certificate","certificado profesional IFCT0109 seguridad informatica", "IFCD083PO Informática Forense y Ciberseguridad","CJCA Cybersecurity Associate al 20% por completar"
 }
 ```
 
