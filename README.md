@@ -84,7 +84,9 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 ### 🧰 Otras certificaciones
 
 - 🛠️ Google IT Support – Febrero 2021  
-- 🔐 NSE 1 & 2 Fortinet – Febrero 2021  
+- 🔐 NSE 1 Fortine - Febrero 2021
+- 🔐 NSE 2 Fortinet – Febrero 2021
+- 🔐 NSE 3 Fortinet 11/2025
 - 🧑‍💻 IFCT0109 Seguridad Informática  
 - 🧪 IFCD083PO Informática Forense y Ciberseguridad  
 - 🧠 CPTS Certified Penetration Testing Specialist (10% completado)
