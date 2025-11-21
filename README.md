@@ -81,16 +81,18 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 📋 AI-900 – Febrero 2023  
 🔗 [Ver expediente](https://learn.microsoft.com/es-es/users/victorarbiolmartinez/transcript/dg8okh959eqqw4q)
 
-### 🧰 Otras certificaciones
+### Fortinet Firewall
 
-- 🛠️ Google IT Support – Febrero 2021  
 - <img alt="Static Badge" src="https://img.shields.io/badge/Fortinet-NSE1-red">
 - <img alt="Static Badge" src="https://img.shields.io/badge/Fortinet-NSE2-red">
 - <img alt="Static Badge" src="https://img.shields.io/badge/Fortinet-NSE3-red">
 
+### 🧰 Otras certificaciones
+
+- 🛠️ Google IT Support – Febrero 2021  
 - 🧑‍💻 IFCT0109 Seguridad Informática  
 - 🧪 IFCD083PO Informática Forense y Ciberseguridad  
-- 🧠 CPTS Certified Penetration Testing Specialist (10% completado)
+- 🧠 CPTS Certified Penetration Testing Specialist (30% completado)
 
 ---
 
