@@ -98,7 +98,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 
 ## Hack-Lab
 
-![Hack The Box](https://img.shields.io/badge/HTB--ED53473722-111?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=000000&color=00ff00)
+![Hack The Box](https://img.shields.io/badge/HTB--HTB-ED53473722-111?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=000000&color=00ff00)
 
 
 ## 🚀 Proyectos Destacados
