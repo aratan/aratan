@@ -93,6 +93,8 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - 🧑‍💻 IFCT0109 Seguridad Informática  
 - 🧪 IFCD083PO Informática Forense y Ciberseguridad  
 - 🧠 CPTS Certified Penetration Testing Specialist (30% completado)
+- 🧠 CRTO Certified Red Team Operation (20% completado)
+- 🧠 MVRE Investigador de vulnerabilidades , especialista en explotación (1% completado)
 
 ---
 
