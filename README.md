@@ -95,6 +95,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - 🧠 CPTS Certified Penetration Testing Specialist (30% completado)
 - 🧠 CRTO Certified Red Team Operation (20% completado)
 - 🧠 MVRE Investigador de vulnerabilidades , especialista en explotación (1% completado)
+- 🧠 Informática Forense y Ciberseguridad: IFCD083PO
 
 ---
 
