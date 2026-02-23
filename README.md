@@ -89,9 +89,9 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 ### 🧰 Otras certificaciones
 
 - 🛠️ Google IT Support – Febrero 2021  
-- 🧑‍💻 IFCT0109 Seguridad Informática (2026)  
-- 🧪 IFCD083PO Informática Forense y Ciberseguridad (2025) 
-- 🧠 CPTS Certified Penetration Testing Specialist (30% completado)
+- 🧑‍💻 IFCT0109 Seguridad Informática (Febrero 2026)  
+- 🧪 IFCD083PO Informática Forense y Ciberseguridad (Enero 2026) 
+- 🧠 CPTS Certified Penetration Testing Specialist (35.8% completado)
 - 🧠 CRTO Certified Red Team Operation (20% completado)
 - 🧠 MVRE Investigador de vulnerabilidades , especialista en explotación (1% completado)
 
