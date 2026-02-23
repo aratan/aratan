@@ -114,8 +114,8 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - **[App de Pentesting SYNAPSE)](https://github.com/aratan/SYNAPSE)** – Framework de Pentesting asistido por IA.
 - **[Exfiltracion de datos por ultrasonidos](https://github.com/aratan/ultrasonicmsg)** – Exfiltracion de datos por ultrasonidos.
 - **[Red P2P cifrada](https://github.com/aratan/28SP)** – Red P2p Cifrada texto y ficheros.
-- **[Red P2P cifrada](https://huggingface.co/Aratan/llama_aratan)** – Finetuning de modelo de texto llama-3.1-8b-bnb-4bit.
-- **[Red P2P cifrada](https://huggingface.co/Aratan/flux-text-nf4-aratan)** – Finetuning de modelo de imagen mejorando texto en Flux.
+- **[Finetuning Llama](https://huggingface.co/Aratan/llama_aratan)** – Finetuning de modelo de texto llama-3.1-8b-bnb-4bit.
+- **[Finetuning FLux](https://huggingface.co/Aratan/flux-text-nf4-aratan)** – Finetuning de modelo de imagen mejorando texto en Flux.
 - **[Formandome en Quantum Machine Learning ()** – En proceso... estudiando como applicar QML para Zero Day.
 
 ---
