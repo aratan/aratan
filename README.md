@@ -105,15 +105,17 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 
 ## 🚀 Proyectos Destacados
 
-- **[EC-Detecion-Ictus](https://github.com/aratan/EC-Detecion-Ictus)** – Modelo predictivo para detección de ictus  
-- **[NLPYouTubeBot](https://github.com/aratan/nlpyoutubeBot)** – Bot de Telegram con NLP para moderación de comentarios  
-- **[Chatea_con_PDF](https://github.com/aratan/Chatea_con_PDF)** – Chat con PDFs usando Falcon 7B  
-- **[MCP_LMStudio_GO](https://github.com/aratan/MCP_LMStudio_GO)** – Ejemplo de MCP para LMStudio  
-- **[AratanCodersNFT](https://github.com/aratan)** – Desarrollo de NFT y SmartContracts
-- **[App IDS/IPS con IA](https://github.com/aratan/myIPS)** – Deteccion de intrusos y bloqueo por IA
-- **[App de Pentesting SYNAPSE)](https://github.com/aratan/SYNAPSE)** – Framework de Pentesting asistido por IA
-- **[Exfiltracion de datos por ultrasonidos](https://github.com/aratan/ultrasonicmsg)** – Exfiltracion de datos por ultrasonidos
-- **[Red P2P cifrada](https://github.com/aratan/28SP)** – Red P2p Cifrada texto y ficheros
+- **[EC-Detecion-Ictus](https://github.com/aratan/EC-Detecion-Ictus)** – Modelo predictivo para detección de ictus.
+- **[NLPYouTubeBot](https://github.com/aratan/nlpyoutubeBot)** – Bot de Telegram con NLP para moderación de comentarios. 
+- **[Chatea_con_PDF](https://github.com/aratan/Chatea_con_PDF)** – Chat con PDFs usando Falcon 7B.
+- **[MCP_LMStudio_GO](https://github.com/aratan/MCP_LMStudio_GO)** – Ejemplo de MCP para LMStudio.
+- **[AratanCodersNFT](https://github.com/aratan)** – Desarrollo de NFT y SmartContracts.
+- **[App IDS/IPS con IA](https://github.com/aratan/myIPS)** – Deteccion de intrusos y bloqueo por IA.
+- **[App de Pentesting SYNAPSE)](https://github.com/aratan/SYNAPSE)** – Framework de Pentesting asistido por IA.
+- **[Exfiltracion de datos por ultrasonidos](https://github.com/aratan/ultrasonicmsg)** – Exfiltracion de datos por ultrasonidos.
+- **[Red P2P cifrada](https://github.com/aratan/28SP)** – Red P2p Cifrada texto y ficheros.
+- **[Red P2P cifrada](https://huggingface.co/Aratan/llama_aratan)** – Finetuning de modelo de texto llama-3.1-8b-bnb-4bit.
+- **[Red P2P cifrada](https://huggingface.co/Aratan/flux-text-nf4-aratan)** – Finetuning de modelo de imagen mejorando texto en Flux.
 - **[Formandome en Quantum Machine Learning ()** – En proceso... estudiando como applicar QML para Zero Day.
 
 ---
