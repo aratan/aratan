@@ -13,7 +13,6 @@
 
 ## 🌐 Conecta conmigo
 
-[![Twitter](https://img.shields.io/twitter/follow/systemdevelope5?style=social)](https://twitter.com/systemdevelope5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorarbiol-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/victorarbiol/)
 [![GitHub Followers](https://img.shields.io/github/followers/aratan?label=Follow&style=social)](https://github.com/aratan)
 
