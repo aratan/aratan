@@ -94,7 +94,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - 🧠 CPTS Certified Penetration Testing Specialist (30% completado)
 - 🧠 CRTO Certified Red Team Operation (20% completado)
 - 🧠 MVRE Investigador de vulnerabilidades , especialista en explotación (1% completado)
-- 🧠 Informática Forense y Ciberseguridad: IFCD083PO
+
 
 ---
 
@@ -110,10 +110,10 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - **[Chatea_con_PDF](https://github.com/aratan/Chatea_con_PDF)** – Chat con PDFs usando Falcon 7B  
 - **[MCP_LMStudio_GO](https://github.com/aratan/MCP_LMStudio_GO)** – Ejemplo de MCP para LMStudio  
 - **[AratanCodersNFT](https://github.com/aratan)** – Desarrollo de NFT y SmartContracts
-- **[App IDS/IPS con IA]([https://github.com/aratan](https://github.com/aratan/myIPS))** – Deteccion de intrusos y bloqueo por IA
-- **[App de Pentesting SYNAPSE)]([https://github.com/aratan](https://github.com/aratan/SYNAPSE))** – Framework de Pentesting asistido por IA
-- **[Exfiltracion de datos por ultrasonidos]([https://github.com/aratan](https://github.com/aratan/ultrasonicmsg))** – Exfiltracion de datos por ultrasonidos
-- **[Red P2P cifrada]([https://github.com/aratan](https://github.com/aratan/28SP))** – Red P2p Cifrada texto y ficheros
+- **[App IDS/IPS con IA](https://github.com/aratan/myIPS)** – Deteccion de intrusos y bloqueo por IA
+- **[App de Pentesting SYNAPSE)](https://github.com/aratan/SYNAPSE)** – Framework de Pentesting asistido por IA
+- **[Exfiltracion de datos por ultrasonidos](https://github.com/aratan/ultrasonicmsg)** – Exfiltracion de datos por ultrasonidos
+- **[Red P2P cifrada](https://github.com/aratan/28SP)** – Red P2p Cifrada texto y ficheros
 
 ---
 
