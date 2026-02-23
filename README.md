@@ -114,6 +114,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 - **[App de Pentesting SYNAPSE)](https://github.com/aratan/SYNAPSE)** – Framework de Pentesting asistido por IA
 - **[Exfiltracion de datos por ultrasonidos](https://github.com/aratan/ultrasonicmsg)** – Exfiltracion de datos por ultrasonidos
 - **[Red P2P cifrada](https://github.com/aratan/28SP)** – Red P2p Cifrada texto y ficheros
+- **[Formandome en Quantum Machine Learning ()** – En proceso... estudiando como applicar QML para Zero Day.
 
 ---
 
