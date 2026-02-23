@@ -67,7 +67,7 @@ Soy una persona autodidacta, con espíritu emprendedor y gran capacidad para lid
 ### 📡 Analista / Monitorizacion de redes.
 - Analista de red, configuración de redes celulares.
 - Monitorización de red, servidores, balanceadores y automatización de respuestas
-- Muchos más sitios...
+- Análista en SOC ESET (funciones de IDS/IPS),EPP/EDR(Endpoint AV),XDR (Extended Detection and Response),EDR/XDR. threat hunting, procesos de un ataque y aislar equipos.
 ---
 
 ## 📜 Certificaciones
