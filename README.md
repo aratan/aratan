@@ -9,6 +9,8 @@
 💻 **AI Junior Software Engineer & Developer Consultant** – [AratanCoders.blockchain](https://aratancoders.blockchain)  
 🧠 Apasionado del *Machine Learning*, la *Ciberseguridad* y el desarrollo de soluciones con impacto real.
 
+<img src="https://cdn-icons-png.flaticon.com/512/5600/5600135.png"  width="30" alt="dron"> **Piloto de dron: Warflying**  
+
 ---
 
 ## 🌐 Conecta conmigo
