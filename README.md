@@ -1,6 +1,8 @@
 <h1 align="center">🚀 Aratan – Senior AI Edge Engineer & Cybersecurity Specialist</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110029154?s=200&v=4" width="100" alt="Víctor Arbiol avatar">
+  
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/565689b2-247b-4bd5-a2e8-1084f9f9c0d7" />
+
 </p>
 
 ---
