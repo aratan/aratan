@@ -98,6 +98,8 @@ Especialista técnico con un enfoque poliédrico que combina la lógica de siste
 *   **[NexusMind](https://github.com/aratan/NexusMind)**: Arquitectura descentralizada de mercado de cómputo donde las consultas a modelos de IA locales son distribuidas en una red de nodos especializados y liquidadas al instante mediante *smart contracts* de alta velocidad en la blockchain de **Solana**.
 *   **[api-p2p / red-social](https://github.com/aratan/api-p2p)**: Infraestructura distribuida en Go que implementa una red P2P pura con capas de API integradas y control criptográfico de lectura/escritura mediante tokens descentralizados.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aratan6)
+
 ---
 
 ## 📊 GitHub Stats & Laboratorio
