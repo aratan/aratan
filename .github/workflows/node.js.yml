@@ -1,34 +1,24 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+name: Update README with latest YouTube video
 
-name: Node.js CI
-
-#name: Do things every 5 minutes
 on:
   schedule:
-    - cron: "*/5 * * * *"
-  
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
       with:
-        node-version: '16'
+        node-version: '18'
     - run: npm install
     - run: npm run update-readme
     - run: |
-          git config user.name aratan
-          git config user.email victor.arbiol@gmail.com
-          git add README.md
-          git commit -m "[bot]-> Update README with latest info YT Channel"
-          git push origin main
-
-    
-
-
-
-
-
+        git config user.name "aratan"
+        git config user.email "victor.arbiol@gmail.com"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest YouTube video"
+        git push origin main

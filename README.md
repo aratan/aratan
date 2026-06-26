@@ -21,6 +21,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorarbiol-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/victorarbiol/)
 [![GitHub Followers](https://img.shields.io/github/followers/aratan?label=Follow&style=social)](https://github.com/aratan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIehR0_0f5zzffcz93CmuXw)
+
+---
+
+## 🎥 Último video en YouTube
+
+<a href="https://www.youtube.com/watch?v=1KB8hGMEGOo" target="_blank">
+  <img src="https://img.youtube.com/vi/1KB8hGMEGOo/hqdefault.jpg" width="480" alt="Trabajando con IA" />
+</a>
+
+📺 **[Trabajando con IA](https://www.youtube.com/watch?v=1KB8hGMEGOo)**
 
 ---
 
