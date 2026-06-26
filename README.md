@@ -7,6 +7,8 @@
 
 ---
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aratan)
+
 🎓 **Grado en Psicología** – [UNED](http://www.uned.es)  
 🧠 **Especialista en IA Local, Sistemas Distribuidos P2P y Ciberseguridad Ofensiva**  
 🛠️ Diseñador de soluciones *Utility-First* enfocadas en la soberanía de datos, resiliencia de infraestructuras y optimización en el Edge.
