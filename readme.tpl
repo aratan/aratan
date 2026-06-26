@@ -74,6 +74,8 @@
 
 ## 🛠️ Arsenal Técnico
 
+> 💡 **Pincha en cualquier badge** para ver los proyectos que usan esa tecnología
+
 <table>
   <tr>
     <th align="center">Categoría</th>
@@ -82,39 +84,205 @@
   <tr>
     <td><b>Lenguajes</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <a href="#tech-rust"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+      <a href="#tech-go"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+      <a href="#tech-python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+      <a href="#tech-cpp"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+      <a href="#tech-typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Infraestructura</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <a href="#tech-docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+      <a href="#tech-kafka"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
+      <a href="#tech-postgres"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+      <a href="#tech-fastapi"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Blockchain & Web3</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Smart_Contracts-2C2C2C?style=for-the-badge&logo=solana&logoColor=white" />
+      <a href="#tech-solana"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" /></a>
+      <a href="#tech-smartcontracts"><img src="https://img.shields.io/badge/Smart_Contracts-2C2C2C?style=for-the-badge&logo=solana&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td><b>OS & Security</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-      <img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white" />
+      <a href="#tech-kali"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+      <a href="#tech-arch"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /></a>
+      <a href="#tech-debian"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
+      <a href="#tech-metasploit"><img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+<br />
+
+<details>
+  <a name="tech-rust"></a>
+  <summary><b>🦀 Rust</b> — Proyectos que usan Rust <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [hacklang / hacklangc](https://github.com/aratan/hacklang) | Lenguaje nativo + compilador para orquestación de LLMs |
+  | [python2c](https://github.com/aratan/python2c) | Transpilador Python→C++ (transpilador en Rust) |
+  | [Thematic-Seed-Persistence-TSP](https://github.com/aratan/Thematic-Seed-Persistence-TSP) | Framework anti-deriva temática para fine-tuning |
+
+</details>
+
+<details>
+  <a name="tech-go"></a>
+  <summary><b>🐹 Go</b> — Proyectos que usan Go <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [SYNAPSE](https://github.com/aratan/SYNAPSE) | Framework Red Team con firma mínima en memoria |
+  | [28SP](https://github.com/aratan/28SP) | Mensajería P2P anti-censura cifrada |
+  | [api-p2p](https://github.com/aratan/api-p2p) | Red social P2P con control criptográfico de acceso |
+  | [NexusMind](https://github.com/aratan/NexusMind) | Mercado descentralizado de cómputo IA en Solana |
+  | [MCP_LMStudio_GO](https://github.com/aratan/MCP_OLLAMA) | Servidor MCP para LM Studio en Go |
+
+</details>
+
+<details>
+  <a name="tech-python"></a>
+  <summary><b>🐍 Python</b> — Proyectos que usan Python <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [python2c](https://github.com/aratan/python2c) | Transpilador Python→C++ (código fuente en Python) |
+  | [ultrasonicmsg](https://github.com/aratan/ultrasonicmsg) | Exfiltración por ultrasonidos en sistemas air-gapped |
+  | [AI-Agent-Auditor-Madrid](https://github.com/aratan/AI-Agent-Auditor-Madrid) | IDS con Quantum ML para detección de anomalías |
+  | [Thematic-Seed-Persistence-TSP](https://github.com/aratan/Thematic-Seed-Persistence-TSP) | Framework anti-deriva temática |
+  | [MCP_OLLAMA](https://github.com/aratan/MCP_OLLAMA) | Servidor MCP para Ollama |
+
+</details>
+
+<details>
+  <a name="tech-cpp"></a>
+  <summary><b>🔷 C++</b> — Proyectos que usan C++ <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [python2c](https://github.com/aratan/python2c) | Transpilador Python→C++ (genera código C++ optimizado para Edge) |
+
+</details>
+
+<details>
+  <a name="tech-typescript"></a>
+  <summary><b>🔵 TypeScript</b> — Proyectos que usan TypeScript <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [WebMCP](https://github.com/aratan/MCP_OLLAMA) | Interfaz web para el ecosistema MCP |
+
+</details>
+
+<details>
+  <a name="tech-docker"></a>
+  <summary><b>🐳 Docker</b> — Proyectos que usan Docker <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [28SP](https://github.com/aratan/28SP) | Mensajería P2P con despliegue containerizado |
+  | [NexusMind](https://github.com/aratan/NexusMind) | Mercado de cómputo con microservicios en Docker |
+  | [api-p2p](https://github.com/aratan/api-p2p) | Infraestructura P2P containerizada |
+  | [Ecosistema MCP](https://github.com/aratan/MCP_OLLAMA) | Servidores MCP empaquetados como imágenes Docker |
+
+</details>
+
+<details>
+  <a name="tech-kafka"></a>
+  <summary><b>⚡ Kafka</b> — Proyectos que usan Kafka <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | Data Pipelines | Streams ETL en entornos concurrentes (experiencia profesional) |
+
+</details>
+
+<details>
+  <a name="tech-postgres"></a>
+  <summary><b>🗄️ PostgreSQL</b> — Proyectos que usan PostgreSQL <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [NexusMind](https://github.com/aratan/NexusMind) | Base de datos analítica del mercado descentralizado |
+  | [api-p2p](https://github.com/aratan/api-p2p) | Almacenamiento de datos de la red social P2P |
+
+</details>
+
+<details>
+  <a name="tech-fastapi"></a>
+  <summary><b>⚙️ FastAPI</b> — Proyectos que usan FastAPI <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [AI-Agent-Auditor-Madrid](https://github.com/aratan/AI-Agent-Auditor-Madrid) | API del IDS con Quantum ML |
+
+</details>
+
+<details>
+  <a name="tech-solana"></a>
+  <summary><b>◎ Solana</b> — Proyectos que usan Solana <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [NexusMind](https://github.com/aratan/NexusMind) | Liquidación de cómputo IA mediante smart contracts en Solana |
+
+</details>
+
+<details>
+  <a name="tech-smartcontracts"></a>
+  <summary><b>📜 Smart Contracts</b> — Proyectos con smart contracts <em>(click para expandir)</em></summary>
+
+  | Proyecto | Descripción |
+  |---|---|
+  | [NexusMind](https://github.com/aratan/NexusMind) | Smart contracts en Solana para liquidación automatizada |
+
+</details>
+
+<details>
+  <a name="tech-kali"></a>
+  <summary><b>🐉 Kali Linux</b> — Entornos que usan Kali <em>(click para expandir)</em></summary>
+
+  | Proyecto / Uso | Descripción |
+  |---|---|
+  | [SYNAPSE](https://github.com/aratan/SYNAPSE) | Framework Red Team diseñado y probado en Kali |
+  | Pentesting Labs | Entorno principal para operaciones de seguridad ofensiva |
+
+</details>
+
+<details>
+  <a name="tech-arch"></a>
+  <summary><b>📦 Arch Linux</b> — Entornos que usan Arch <em>(click para expandir)</em></summary>
+
+  | Proyecto / Uso | Descripción |
+  |---|---|
+  | Daily Driver | Sistema operativo principal para desarrollo y laboratorio |
+
+</details>
+
+<details>
+  <a name="tech-debian"></a>
+  <summary><b>🌀 Debian</b> — Entornos que usan Debian <em>(click para expandir)</em></summary>
+
+  | Proyecto / Uso | Descripción |
+  |---|---|
+  | Servidores | Base de servidores de producción y contenedores |
+
+</details>
+
+<details>
+  <a name="tech-metasploit"></a>
+  <summary><b>💀 Metasploit</b> — Proyectos que usan Metasploit <em>(click para expandir)</em></summary>
+
+  | Proyecto / Uso | Descripción |
+  |---|---|
+  | Pentesting | Framework de explotación para validación de vulnerabilidades |
+  | [SYNAPSE](https://github.com/aratan/SYNAPSE) | Integración con módulos de post-explotación |
 
 ---
 
