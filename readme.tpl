@@ -55,6 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aratan&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </a>
 
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aratan/aratan/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
 ---
 
 ## 🎥 Último contenido
@@ -179,11 +185,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTB-ED53473722-111?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Hack The Box" />
+  <a href="https://app.hackthebox.com/profile/ED53473722" target="_blank">
+    <img src="https://img.shields.io/badge/HTB-ED53473722-111?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Hack The Box" />
+  </a>
+  <a href="https://skyline.github.com/aratan/2025" target="_blank">
+    <img src="https://img.shields.io/badge/Skyline_3D-View-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+  </a>
   <img src="https://img.shields.io/badge/Última_actualización-2026-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random Dev Quote" />
+</p>
 
 <p align="center">
   <em>"Código soberano, mentes libres. La descentralización no es una opción, es el siguiente paso."</em>
