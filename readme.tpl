@@ -24,32 +24,22 @@
 
 ## 📊 Dashboard de Actividad
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aratan">
-        <img src="https://github-readme-stats.vercel.app/api?username=aratan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aratan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aratan">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aratan&theme=radical&hide_border=true&background=0D1117" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aratan">
-        <img src="https://github-profile-trophy.vercel.app/?username=aratan&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/aratan">
+    <img src="https://github-readme-stats.vercel.app/api?username=aratan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="49%" />
+  </a>
+  <a href="https://github.com/aratan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" width="49%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/aratan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aratan&theme=radical&hide_border=true&background=0D1117" width="49%" />
+  </a>
+  <a href="https://github.com/aratan">
+    <img src="https://github-profile-trophy.vercel.app/?username=aratan&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="49%" />
+  </a>
+</p>
 
 <a href="https://github.com/aratan">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aratan&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
@@ -159,9 +149,10 @@
 ### 🔐 Ciberseguridad, Red Team & Canales Encubiertos
 <table>
   <tr>
-    <td width="33%"><b><a href="https://github.com/aratan/AI-Agent-Auditor-Madrid">AI Agent Auditor</a></b><br/>IDS experimental con Quantum ML para detección de anomalías</td>
-    <td width="33%"><b><a href="https://github.com/aratan/SYNAPSE">SYNAPSE</a></b><br/>Framework Red Team en Go con firma mínima en memoria</td>
-    <td width="33%"><b><a href="https://github.com/aratan/ultrasonicmsg">ultrasonicmsg</a></b><br/>Exfiltración por ultrasonidos en sistemas air-gapped</td>
+    <td width="25%"><b><a href="https://github.com/aratan/AI-Agent-Auditor-Madrid">AI Agent Auditor</a></b><br/>IDS experimental con Quantum ML para detección de anomalías</td>
+    <td width="25%"><b><a href="https://github.com/aratan/SYNAPSE">SYNAPSE</a></b><br/>Framework Red Team en Go con firma mínima en memoria</td>
+    <td width="25%"><b><a href="https://github.com/aratan/ultrasonicmsg">ultrasonicmsg</a></b><br/>Exfiltración por ultrasonidos en sistemas air-gapped</td>
+    <td width="25%"><b><a href="https://github.com/aratan/Havoc-II">Havoc-II</a></b><br/>C2 post-exploitation framework fork en C++/Go</td>
   </tr>
 </table>
 
