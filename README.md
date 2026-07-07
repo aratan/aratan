@@ -22,42 +22,6 @@
 
 ---
 
-## 📊 Dashboard de Actividad
-
-<p align="center">
-  <a href="https://github.com/aratan">
-    <img src="https://github-readme-stats.vercel.app/api?username=aratan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="49%" />
-  </a>
-  <a href="https://github.com/aratan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" width="49%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aratan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aratan&theme=radical&hide_border=true&background=0D1117" width="49%" />
-  </a>
-  <a href="https://github.com/aratan">
-    <img src="https://github-profile-trophy.vercel.app/?username=aratan&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="49%" />
-  </a>
-</p>
-
-<a href="https://github.com/aratan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aratan&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</a>
-
-<br />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aratan/aratan/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-## 🎥 Último contenido
-
-<a href="https://www.youtube.com/watch?v=1KB8hGMEGOo" target="_blank">
-  <img src="https://img.youtube.com/vi/1KB8hGMEGOo/hqdefault.jpg" width="480" alt="Trabajando con IA" />
-</a>
 
 📺 **[Trabajando con IA](https://www.youtube.com/watch?v=1KB8hGMEGOo)**
 
