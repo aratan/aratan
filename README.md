@@ -134,35 +134,6 @@
 </table>
 
 ---
-
-## 📈 Métricas
-
-<p align="center">
-  <a href="https://github.com/aratan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aratan&theme=radical" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/ED53473722" target="_blank">
-    <img src="https://img.shields.io/badge/HTB-ED53473722-111?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Hack The Box" />
-  </a>
-  <a href="https://skyline.github.com/aratan/2025" target="_blank">
-    <img src="https://img.shields.io/badge/Skyline_3D-View-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-  </a>
-  <img src="https://img.shields.io/badge/Última_actualización-2026-FF6B6B?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <em>"Código soberano, mentes libres. La descentralización no es una opción, es el siguiente paso."</em>
-</p>
-
 <p align="center">
   ⭐️ De <a href="https://github.com/aratan">@aratan</a> — <a href="https://github.com/aratan/aratan">github.com/aratan/aratan</a>
 </p>
