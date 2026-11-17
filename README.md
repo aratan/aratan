@@ -1,139 +1,86 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/565689b2-247b-4bd5-a2e8-1084f9f9c0d7" width="200" height="200" style="border-radius: 50%;" alt="Aratan" />
-</p>
+# Aratan
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Aratan;Senior+AI+Edge+Engineer;Cybersecurity+Specialist;P2P+Systems+Architect" alt="Typing SVG" />
-</h1>
+**IA aplicada · Automatización · Ciberseguridad · Sistemas distribuidos**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victorarbiol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aratan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCIehR0_0f5zzffcz93CmuXw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://ko-fi.com/aratan"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/aratan6"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
+Diseño y experimento con software orientado a resolver problemas reales: agentes de IA, automatización, herramientas de seguridad y sistemas distribuidos. Me interesa especialmente la ejecución local, la soberanía tecnológica, la resiliencia y el uso práctico de modelos abiertos.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aratan&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aratan?style=for-the-badge&logo=github&label=Followers&color=6C63FF" />
-  <img src="https://img.shields.io/badge/Dron_Certificado-A1/A3-00D4AA?style=for-the-badge&logo=dji&logoColor=white" />
+Mi enfoque combina análisis, aprendizaje continuo y construcción de prototipos. En ciberseguridad, mi interés está en el análisis técnico y las metodologías defensivas y ofensivas dentro de entornos autorizados.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/victorarbiol/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/aratan"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/channel/UCIehR0_0f5zzffcz93CmuXw"><img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
 
+## Áreas de trabajo
 
-📺 **[Trabajando con IA](https://www.youtube.com/watch?v=1KB8hGMEGOo)**
+- **IA y agentes:** modelos locales, herramientas, orquestación y automatización de tareas.
+- **Ciberseguridad:** análisis de seguridad, fundamentos de Red Team, evaluación de sistemas y experimentación en entornos autorizados.
+- **Sistemas distribuidos:** comunicación P2P, resiliencia, redes y arquitecturas descentralizadas.
+- **Desarrollo:** Python, Go, Rust y herramientas para integrar servicios y automatizar procesos.
+- **Edge e infraestructura:** ejecución eficiente, despliegue local y aprovechamiento de recursos limitados.
 
----
+## Proyectos y repositorios seleccionados
 
-## 🧠 Perfil Técnico
+Los siguientes enlaces recogen líneas de trabajo y experimentación presentes en mis repositorios. El estado y el grado de madurez varían de un proyecto a otro; consulta cada README para conocer su alcance real.
 
-> Psicólogo de formación, hacker de adopción. Arquitecto de sistemas distribuidos, ingeniero de IA en el Edge y operador de ciberseguridad ofensiva. Combino la lógica de sistemas complejos con psicología del comportamiento para diseñar infraestructuras **soberanas, resilientes y descentralizadas**.
+### IA, agentes y herramientas de desarrollo
 
-🎓 **Grado en Psicología** – UNED  
-🛸 **Operador de Drones Certificado (A1/A3)** – Warflying Operations  
+| Proyecto | Descripción |
+|---|---|
+| [hacklang](https://github.com/aratan/hacklang) | Exploración de un lenguaje y herramientas para trabajar con flujos de LLM. |
+| [python2c](https://github.com/aratan/python2c) | Experimentos de traducción de código Python a C++. |
+| [MCP_OLLAMA](https://github.com/aratan/MCP_OLLAMA) | Integración de herramientas y modelos locales mediante MCP y Ollama. |
+| [Thematic Seed Persistence (TSP)](https://github.com/aratan/Thematic-Seed-Persistence-TSP) | Investigación experimental sobre persistencia temática en generación con modelos. |
 
----
+### Ciberseguridad y análisis
 
-## 🛠️ Arsenal Técnico
+| Proyecto | Descripción |
+|---|---|
+| [AI Agent Auditor Madrid](https://github.com/aratan/AI-Agent-Auditor-Madrid) | Proyecto experimental relacionado con auditoría y análisis de agentes de IA. |
+| [SYNAPSE](https://github.com/aratan/SYNAPSE) | Desarrollo experimental de herramientas relacionadas con seguridad y Red Team. |
+| [ultrasonicmsg](https://github.com/aratan/ultrasonicmsg) | Investigación sobre comunicación acústica de datos. |
+| [Havoc-II](https://github.com/aratan/Havoc-II) | Repositorio relacionado con herramientas de simulación y estudio de post-explotación. |
 
-> 💡 **Pincha en cualquier badge** para ver tus repos filtrados por esa tecnología directamente en GitHub
+### Sistemas distribuidos y P2P
 
-<table>
-  <tr>
-    <th align="center">Categoría</th>
-    <th align="center">Stack</th>
-  </tr>
-  <tr>
-    <td><b>Lenguajes</b></td>
-    <td>
-      <a href="https://github.com/aratan?tab=repositories&q=&type=&language=rust&sort=" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=&type=&language=go&sort=" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infraestructura</b></td>
-    <td>
-      <a href="https://github.com/aratan?tab=repositories&q=docker&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=kafka&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=postgres&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=fastapi&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Blockchain & Web3</b></td>
-    <td>
-      <a href="https://github.com/aratan?tab=repositories&q=solana&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" /></a>
-      <a href="https://github.com/aratan?tab=repositories&q=smart+contract&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Smart_Contracts-2C2C2C?style=for-the-badge&logo=solana&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>OS & Security</b></td>
-    <td>
-      <a href="https://github.com/aratan?tab=repositories&q=kali&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-      <a href="https://github.com/aratan?tab=repositories&q=metasploit&type=&sort=" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+| Proyecto | Descripción |
+|---|---|
+| [28SP](https://github.com/aratan/28SP) | Exploración de mensajería P2P y comunicaciones cifradas. |
+| [NexusMind](https://github.com/aratan/NexusMind) | Concepto de mercado descentralizado de recursos de computación para IA. |
+| [api-p2p](https://github.com/aratan/api-p2p) | Experimentos con servicios y control de acceso en arquitecturas P2P. |
 
 ---
 
-## 🏆 Certificaciones
+## Tecnologías
 
-<p align="center">
-  <img src="https://img.shields.io/badge/eJPT-Junior_Pen_Test-00D4AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IFCT0109-Seguridad_Informática-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IFCD083PO-Forense-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fortinet_NSE-Infraestructura-EE3124?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-900-Azure_AI_Fundamentals-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CPTS-📈_35%25-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CRTO-📈_20%25-00D4AA?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat&logoColor=white" alt="Ollama" />
 </p>
 
----
+## Formación
 
-## 🚀 Proyectos Élite
+- Formación en ciberseguridad, análisis forense y fundamentos de inteligencia artificial.
+- Certificación de piloto de drones A1/A3.
 
-### 🤖 IA, Compiladores & Agentes Locales
-<table>
-  <tr>
-    <td width="33%"><b><a href="https://github.com/aratan/hacklang">hacklang / hacklangc</a></b><br/>Lenguaje nativo + compilador en Rust para orquestación de LLMs</td>
-    <td width="33%"><b><a href="https://github.com/aratan/python2c">python2c</a></b><br/>Transpilador Python → C++ impulsado por IA para Edge Computing</td>
-    <td width="33%"><b><a href="https://github.com/aratan/MCP_OLLAMA">Ecosistema MCP</a></b><br/>Servidores MCP para ejecución segura de herramientas locales</td>
-  </tr>
-  <tr>
-    <td width="33%"><b><a href="https://github.com/aratan/Thematic-Seed-Persistence-TSP">TSP</a></b><br/>Framework anti-deriva temática para fine-tuning generativo</td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-</table>
-
-### 🔐 Ciberseguridad, Red Team & Canales Encubiertos
-<table>
-  <tr>
-    <td width="25%"><b><a href="https://github.com/aratan/AI-Agent-Auditor-Madrid">AI Agent Auditor</a></b><br/>IDS experimental con Quantum ML para detección de anomalías</td>
-    <td width="25%"><b><a href="https://github.com/aratan/SYNAPSE">SYNAPSE</a></b><br/>Framework Red Team en Go con firma mínima en memoria</td>
-    <td width="25%"><b><a href="https://github.com/aratan/ultrasonicmsg">ultrasonicmsg</a></b><br/>Exfiltración por ultrasonidos en sistemas air-gapped</td>
-    <td width="25%"><b><a href="https://github.com/aratan/Havoc-II">Havoc-II</a></b><br/>C2 post-exploitation framework fork en C++/Go</td>
-  </tr>
-</table>
-
-### 🌐 Sistemas Distribuidos, Web3 & Resiliencia P2P
-<table>
-  <tr>
-    <td width="33%"><b><a href="https://github.com/aratan/28SP">28SP</a></b><br/>Mensajería P2P anti-censura cifrada en Go</td>
-    <td width="33%"><b><a href="https://github.com/aratan/NexusMind">NexusMind</a></b><br/>Mercado descentralizado de cómputo IA con liquidación en Solana</td>
-    <td width="33%"><b><a href="https://github.com/aratan/api-p2p">api-p2p</a></b><br/>Red social P2P con control criptográfico de acceso</td>
-  </tr>
-</table>
+*La formación y las acreditaciones concretas se detallan en mi perfil profesional y en la documentación correspondiente.*
 
 ---
-<p align="center">
-  ⭐️ De <a href="https://github.com/aratan">@aratan</a> — <a href="https://github.com/aratan/aratan">github.com/aratan/aratan</a>
-</p>
+
+## Contacto
+
+- **LinkedIn:** [linkedin.com/in/victorarbiol](https://www.linkedin.com/in/victorarbiol/)
+- **GitHub:** [github.com/aratan](https://github.com/aratan)
+- **Vídeo:** [Trabajando con IA](https://www.youtube.com/watch?v=1KB8hGMEGOo)
+
+---
+
+<sub>Este perfil refleja proyectos personales, experimentos y líneas de aprendizaje. Para conocer el estado, las instrucciones y las licencias de cada desarrollo, consulta el repositorio correspondiente.</sub>
